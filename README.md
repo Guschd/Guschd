@@ -4,21 +4,21 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
 
 # Tech Stack
 <p align="right">
-    <img src="https://img.shields.io/badge/-VMware-333?style=flat-square&logo=vmware&logoColor=lightblue"/>
-    <img src="https://img.shields.io/badge/-Proxmox-333?style=flat-square&logo=proxmox&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/-WatchGuard-333?style=flat-square&logo=watchguard&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VMware-C6E2FF?style=flat-square&logo=vmware&logoColor=lightblue"/>
+    <img src="https://img.shields.io/badge/-Proxmox-FF7F24?style=flat-square&logo=proxmox&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-WatchGuard-EE0000?style=flat-square&logo=watchguard&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Debian-333?style=flat-square&logo=debian&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ubuntu-333?style=flat-square&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Bitwarden-333?style=flat-square&logo=bitwarden&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-RaspberryPi-333?style=flat-square&logo=raspberrypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bitwarden-436EEE?style=flat-square&logo=bitwarden&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-RaspberryPi-FF3E96?style=flat-square&logo=raspberrypi&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Dell%20VxRail-333?style=flat-square&logo=dellvxrail&logoColor=white"/>
     <img src="https://img.shields.io/badge/-VirtualBox-333?style=flat-square&logo=virtualbox&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MariaDB-333?style=flat-square&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HP%20Enterprise-333?style=flat-square&logo=hpenterprise&logoColor=green"/>
-    <img src="https://img.shields.io/badge/-Aruba-333?style=flat-square&logo=aruba&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HP%20Enterprise-2E8B57?style=flat-square&logo=hpenterprise&logoColor=green"/>
+    <img src="https://img.shields.io/badge/-Aruba-FF4500?style=flat-square&logo=aruba&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ruckus%20Networks-333?style=flat-square&logo=ruckusnetworks&logoColor=white"/>
   </p>
 </p>
