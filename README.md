@@ -24,13 +24,13 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
     <img src="https://img.shields.io/badge/-HCL%20Domino-FFE034?style=flat-square&logo=hcldomino&logoColor=white"/>
   </p>
 </p>
-%% <br clear="both"/>
+<br clear="both"/>
 
 ---
 
 ## About Me
 
-🧑‍💻 I'm **Sebastian Besold**, IT Infrastructure Administrator Infrastructure Planning • Enterprise Networking • Technical Project Coordination <br/>
+🧑‍💻 I'm **Sebastian Besold**, IT Infrastructure Administrator • Infrastructure Planning • Enterprise Networking • Technical Project Coordination • Volunteer Firefighter <br/>
 📍Based in **Germany** <br/>
 📑 Currently learning: **LLM, Mermaid, Docker**<br/>
 💬 Ask me about: **Infrastructure, Networks, Fire Rescue**<br/>
