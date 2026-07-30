@@ -24,7 +24,8 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
     <img src="https://img.shields.io/badge/-HCL%20Domino-FFE034?style=flat-square&logo=hcldomino&logoColor=white"/>
   </p>
 </p>
-<br clear="both"/>
+%% <br clear="both"/>
+
 ---
 
 ## About Me
