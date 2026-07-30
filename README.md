@@ -39,6 +39,8 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
 
 ## Certificates
 
+- [IHK](Berufszeugnisse.pdf)
+- [CCNA](CCNA.pdf)
 - [ITIL](ITIL.pdf)
 - [Amedtec Administration](Amedtec.pdf)
 - [Fire Prevention Education](Brandschutzerzieher.pdf)
