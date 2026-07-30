@@ -1,16 +1,49 @@
-## Hi there 👋
+# Current Role
 
-<!--
-**Guschd/Guschd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Level Support
 
-Here are some ideas to get you started:
+# Tech Stack
+<p align="right">
+    <img src="https://img.shields.io/badge/-VMware-333?style=flat-square&logo=vmware&logoColor=lightblue"/>
+    <img src="https://img.shields.io/badge/-Proxmox-333?style=flat-square&logo=proxmox&logoColor=orange"/>
+    <img src="https://img.shields.io/badge/-WatchGuard-333?style=flat-square&logo=watchguard&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-333?style=flat-square&logo=debian&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ubuntu-333?style=flat-square&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bitwarden-333?style=flat-square&logo=bitwarden&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-RaspberryPi-333?style=flat-square&logo=raspberrypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Dell%20VxRail-333?style=flat-square&logo=dellvxrail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VirtualBox-333?style=flat-square&logo=virtualbox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MariaDB-333?style=flat-square&logo=mariadb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HP%20Enterprise-333?style=flat-square&logo=hpenterprise&logoColor=green"/>
+    <img src="https://img.shields.io/badge/-Aruba-333?style=flat-square&logo=aruba&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ruckus%20Networks-333?style=flat-square&logo=ruckusnetworks&logoColor=white"/>
+  </p>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both"/>
+
+---
+
+## About Me
+
+🧑‍💻 I'm **Sebastian Besold**, IT Infrastructure Administrator Infrastructure Planning • Enterprise Networking • Technical Project Coordination.<br/>
+📍Based in **Germany** <br/>
+📑 Currently learning: **LLM, Mermaid, Docker**<br/>
+💬 Ask me about: **Infrastructure, Networks, **<br/>
+
+---
+
+## ✉️ Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buero@besold-it.de) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guschd)
+
+---
+
+---
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guschd&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
