@@ -39,9 +39,9 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
 
 ## Certificates
 
-- [ITIL](certificates/ITIL.pdf)
-- [Amedtec Administration](certificates/Amedtec.pdf)
-- [Fire Prevention Education](certificates/Brandschutzerzieher.pdf)
+- [ITIL](ITIL.pdf)
+- [Amedtec Administration](Amedtec.pdf)
+- [Fire Prevention Education](Brandschutzerzieher.pdf)
 
 ---
 
