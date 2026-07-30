@@ -20,7 +20,7 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
     <img src="https://img.shields.io/badge/-HP%20Enterprise-2E8B57?style=flat-square&logo=hpenterprise&logoColor=green"/>
     <img src="https://img.shields.io/badge/-Aruba-FF4500?style=flat-square&logo=aruba&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ruckus%20Networks-333?style=flat-square&logo=ruckusnetworks&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HCL%20Notes-FFE032style=flat-square&logo=hclnotes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HCL%20Notes-FFE032?style=flat-square&logo=hclnotes&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HCL%20Domino-333?style=flat-square&logo=hcldomino&logoColor=white"/>
   </p>
 </p>
