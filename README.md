@@ -14,7 +14,7 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
     <img src="https://img.shields.io/badge/-Bitwarden-436EEE?style=flat-square&logo=bitwarden&logoColor=white"/>
     <img src="https://img.shields.io/badge/-RaspberryPi-FF3E96?style=flat-square&logo=raspberrypi&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Dell%20VxRail-333?style=flat-square&logo=dellvxrail&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-VirtualBox-333?style=flat-square&logo=virtualbox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VirtualBox-004433?style=flat-square&logo=virtualbox&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MariaDB-333?style=flat-square&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HP%20Enterprise-2E8B57?style=flat-square&logo=hpenterprise&logoColor=green"/>
@@ -41,10 +41,6 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
 ## ✉️ Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buero@besold-it.de) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guschd)
-
----
-
----
 
 ---
 
