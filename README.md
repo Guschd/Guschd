@@ -18,6 +18,7 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
     <img src="https://img.shields.io/badge/-VirtualBox-004433?style=flat-square&logo=virtualbox&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MariaDB-333?style=flat-square&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Microsoft%20SQL-333?style=flat-square&logo=microsoftsql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HP%20Enterprise-2E8B57?style=flat-square&logo=hpenterprise&logoColor=green"/>
     <img src="https://img.shields.io/badge/-Aruba-FF4500?style=flat-square&logo=aruba&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ruckus%20Networks-333?style=flat-square&logo=ruckusnetworks&logoColor=white"/>
