@@ -5,6 +5,7 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
 # Tech Stack
 <p align="center">
     <img src="https://img.shields.io/badge/-VMware-000000?style=flat-square&logo=vmware&logoColor=lightblue"/>
+    <img src="https://img.shields.io/badge/-idoit-FFFFFF?style=flat-square&logo=idoit&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Proxmox-FF7F24?style=flat-square&logo=proxmox&logoColor=orange"/>
     <img src="https://img.shields.io/badge/-WatchGuard-EE0000?style=flat-square&logo=watchguard&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Debian-333?style=flat-square&logo=debian&logoColor=white"/>
