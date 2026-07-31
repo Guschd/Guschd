@@ -31,7 +31,8 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
 
 ## About Me
 
-🧑‍💻 I'm **Sebastian Besold**, IT Infrastructure Administrator • Infrastructure Planning • Enterprise Networking • Technical Project Coordination • Volunteer Firefighter <br/>
+🧑‍💻 I'm **Sebastian Besold** <br/>
+IT Infrastructure Administrator • Infrastructure Planning • Enterprise Networking • Technical Project Coordination • Volunteer Firefighter <br/>
 📍Based in **Germany** <br/>
 📑 Currently learning: **LLM, Mermaid, Docker**<br/>
 💬 Ask me about: **Infrastructure, Networks, Fire Rescue**<br/>
