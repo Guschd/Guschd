@@ -48,6 +48,7 @@ IT Infrastructure Administrator • Infrastructure Planning • Enterprise Netwo
 - [ITIL](ITIL.pdf)
 - [Amedtec Administration](Amedtec.pdf)
 - [Fire Prevention Education](Brandschutzerzieher.pdf)
+- [Fire Rescue Certificates](FW-Dienst-Ausbildungshistorie.pdf)
 
 ---
 
