@@ -58,4 +58,4 @@ IT Infrastructure Administrator • Infrastructure Planning • Enterprise Netwo
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guschd&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guschd&theme=github-dark-blue&hide_border=true&background=0d1118)](https://git.io/streak-stats)
