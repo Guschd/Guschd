@@ -29,7 +29,7 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
 
 # Infrastructure Portfolio
 
-[Infrastructure Portfolio](sebastians-infrastructure-portfolio/README.md)
+[Infrastructure Portfolio](https://github.com/Guschd/sebastians-infrastructure-portfolio/README.md)
 
 
 ## About Me
