@@ -26,7 +26,6 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
     <img src="https://img.shields.io/badge/-HCL%20Domino-FFE034?style=flat-square&logo=hcldomino&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Homeassistant-87CEFF?style=flat-square&logo=homeassistant&logoColor=white"/>
   </p>
-<br clear="both"/>
 
 # Infrastructure Portfolio
 
