@@ -25,7 +25,13 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
     <img src="https://img.shields.io/badge/-HCL%20Notes-4478A3?style=flat-square&logo=hclnotes&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HCL%20Domino-FFE034?style=flat-square&logo=hcldomino&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Homeassistant-87CEFF?style=flat-square&logo=homeassistant&logoColor=white"/>
-  </p>
+    <img src="https://img.shields.io/badge/-CCNA-333?style=flat-square&logo=ccna&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-nmap-333?style=flat-square&logo=nmap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-hashcat-333?style=flat-square&logo=hashcat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Wireshark-87CEAA?style=flat-square&logo=wireshark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CheckMK-2E8B33?style=flat-square&logo=checkmk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-ITIL-FF7E22?style=flat-square&logo=itil&logoColor=white"/>
+</p>
 
 # Infrastructure Portfolio
 
