@@ -28,7 +28,7 @@ Systemadministrator, Infrastructure Administrator, Project Manager, 2nd/3rd Leve
     <img src="https://img.shields.io/badge/-CCNA-333?style=flat-square&logo=ccna&logoColor=white"/>
     <img src="https://img.shields.io/badge/-nmap-333?style=flat-square&logo=nmap&logoColor=white"/>
     <img src="https://img.shields.io/badge/-hashcat-333?style=flat-square&logo=hashcat&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Wireshark-87CEAA?style=flat-square&logo=wireshark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Wireshark-87CEEE?style=flat-square&logo=wireshark&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CheckMK-2E8B33?style=flat-square&logo=checkmk&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ITIL-FF7E22?style=flat-square&logo=itil&logoColor=white"/>
 </p>
