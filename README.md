@@ -62,7 +62,7 @@ IT Infrastructure Administrator • Infrastructure Planning • Enterprise Netwo
 ## ✉️ Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buero@besold-it.de) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guschd)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastian-besold-973091431?trk=contact-info)
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guschd&theme=github-dark-blue&hide_border=true&background=0d1118)](https://git.io/streak-stats)
